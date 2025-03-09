@@ -2,7 +2,7 @@
     "name": "OhHey",
     "description": "Social Media Extension",
     "version": "1.0",
-    "manifest_version": 1,
+    "manifest_version": 2,
     "action": {
       "default_popup": "ohhey.html",
       "default_icon": "Icon.png"
